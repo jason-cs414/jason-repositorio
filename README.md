@@ -1,2 +1,2 @@
-# jason-repositorio
-Mis primeros pasos en programación
+# Mis primeros codigos
+hola, este es mi primer repositorio con hola.py
